@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -Wall -Wextra -O3 -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/SSSP_New.dir/main.cpp.o CMakeFiles/SSSP_New.dir/LDD.cpp.o CMakeFiles/SSSP_New.dir/LasVegas.cpp.o -o SSSP_New 
